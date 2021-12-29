@@ -8,7 +8,7 @@ public class NumFinderMain {
         // this works
         // nf.find(new int[] {4, 25, 7, 9});
 
-        // this crashes
+        // this crashes >> Now, it works
         nf.find(new int[] {4, 3, 2, 1});
 
         System.out.println(nf.getLargest());
